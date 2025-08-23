@@ -28,7 +28,7 @@ permissions:
   contents: read
 
 env:
-  DOCKER_TAG: pr_30
+  DOCKER_TAG: pr_31
 
 jobs:
   build-book:
