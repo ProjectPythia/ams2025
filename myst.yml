@@ -5,38 +5,24 @@ project:
   title: AMS Open Radar Short Course 2025
   github: https://github.com/openradar/ams2025
   authors:
+    - name: Maxwell Grover
+      orcid: 0000-0002-0370-8974
+      github: mgrover1
     - name: Alfonso Ladino
       orcid: 0000-0001-8081-7827
       github: aladinor
     - name: Anna del Moral Méndez
       orcid: 0000-0002-5015-840X
+      github: adelmoral2
     - name: Brenda Javornik
       orcid: 0009-0004-9266-9293
       github: leavesntwigs
     - name: Daniel Michelson
       orcid: 0000-0003-3222-9881
       github: DanielMichelson
-    - name: Daniel Wolfensberger
-      orcid: 0009-0006-1419-0556
-      github: wolfidan
-    - name: Gionata Ghiggi
-      orcid: 0000-0002-0818-0865
-      github: ghiggi
     - name: Jen DeHart
       orcid: 0000-0001-8536-4927
       github: jcdehart
-    - name: Jordi Figueras i Ventura
-      orcid: 0000-0002-4949-422X
-      github: jfigui
-    - name: Julian Giles
-      orcid: 0000-0001-8134-008X
-      github: JulianGiles
-    - name: Kai Mühlbauer
-      orcid: 0000-0001-6599-1034
-      github: kmuehlbauer
-    - name: Maxwell Grover
-      orcid: 0000-0002-0370-8974
-      github: mgrover1
     - name: Mike Dixon
       orcid: 0000-0002-9597-9113
       github: mike-dixon
@@ -49,6 +35,9 @@ project:
     - name: Ting-Yu Cha
       orcid: 0000-0002-6292-8483
       github: tingyucha
+    - name: Hamid Ali Syed
+      orcid: 0000-0002-7188-2544
+      github: syedhamidali
   copyright: '2024'
   toc:
     - file: README.md
